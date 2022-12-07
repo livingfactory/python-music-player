@@ -1,0 +1,10 @@
+Internet Resources used in no particular order
+
+
+
+https://stackoverflow.com/questions/6920302/how-to-pass-arguments-to-a-button-command-in-tkinter
+https://stackoverflow.com/questions/61134464/how-can-i-show-the-front-cover-image-of-an-audio-file
+https://stackoverflow.com/questions/8948/accessing-mp3-metadata-with-python
+https://stackoverflow.com/questions/62634557/using-python-to-get-images-from-an-mp3-file
+
+And Obviously, All Library Documentations Were Used
